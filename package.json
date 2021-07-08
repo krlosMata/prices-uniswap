@@ -1,0 +1,16 @@
+{
+  "name": "prices-uniswap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.4.1",
+    "ffjavascript": "^0.2.37"
+  }
+}

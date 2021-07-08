@@ -1,0 +1,18 @@
+[
+    {
+        "pairAddress": "0xf6C4e4f339912541D3f8ED99Dba64a1372AF5E5B",
+        "mainReserveSymbol": "HEZ"
+    },
+    {
+        "pairAddress": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+        "mainReserveSymbol": "WETH"
+    },
+    {
+        "pairAddress": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+        "mainReserveSymbol": "WETH"
+    },
+    {
+        "pairAddress": "0x004375dff511095cc5a197a54140a24efef3a416",
+        "mainReserveSymbol": "WBTC"
+    }
+]
